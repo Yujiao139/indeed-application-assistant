@@ -1,0 +1,7 @@
+node_modules/
+.indeed-profile/
+config.json
+data/*.csv
+data/*.json
+!data/.gitkeep
+

@@ -1,0 +1,44 @@
+{
+  "countryDomain": "ca.indeed.com",
+  "locations": ["Halifax, NS", "Toronto, ON"],
+  "searches": [
+    {
+      "category": "admin",
+      "query": "administrative assistant OR administrative coordinator OR office administrator",
+      "resume": "../Strong_Associates_Administrative_Coordinator/Yujiao_Jessie_Wang_Resume_Admin_Coordinator.pdf"
+    },
+    {
+      "category": "cybersecurity",
+      "query": "cybersecurity analyst OR security analyst OR SOC analyst OR GRC analyst",
+      "resume": "../Scotia_Investments_IT_Analyst/Yujiao_Jessie_Wang_Resume_IT_Analyst.pdf"
+    },
+    {
+      "category": "it",
+      "query": "IT support OR help desk OR service desk OR IT analyst OR technical support",
+      "resume": "../ISANS_IT_Support_Specialist/Yujiao_Jessie_Wang_Resume_IT_Support.pdf"
+    }
+  ],
+  "filters": {
+    "daysOld": 7,
+    "remote": false,
+    "easyApplyOnly": true,
+    "minimumScore": 2,
+    "excludeTitleKeywords": ["senior", "sr.", "manager", "director", "principal", "lead"],
+    "excludeDescriptionKeywords": ["security clearance required", "must be bilingual"],
+    "maxJobsPerRun": 20
+  },
+  "applicant": {
+    "fullName": "请填写",
+    "email": "请填写",
+    "phone": "请填写",
+    "city": "Halifax",
+    "yearsOfExperience": "请填写",
+    "authorizedToWorkInCanada": "Yes",
+    "requiresSponsorship": "No",
+    "linkedin": ""
+  },
+  "screeningAnswers": {
+    "salary": "",
+    "noticePeriod": "Two weeks"
+  }
+}
